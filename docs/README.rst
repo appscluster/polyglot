@@ -40,6 +40,7 @@ Quick Installation
 --------------
     
     sudo apt-get install libicu-dev
+    
     pip install polyglot
 
 Quick Tutorial
