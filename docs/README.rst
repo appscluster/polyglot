@@ -38,6 +38,11 @@ Developer
 
 Quick Tutorial
 --------------
+    sudo apt-get install libicu-dev
+    pip install polyglot
+
+Quick Tutorial
+--------------
 
 .. code:: python
 
