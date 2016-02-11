@@ -38,10 +38,11 @@ Developer
 
 Quick Installation
 --------------
-    
+.. code:: python
+
     sudo apt-get install libicu-dev
-    
     pip install polyglot
+    polyglot download embeddings2.en ner2.en
 
 Quick Tutorial
 --------------
