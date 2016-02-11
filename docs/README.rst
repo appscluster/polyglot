@@ -36,8 +36,9 @@ Developer
 
 -  Rami Al-Rfou @ ``rmyeid gmail com``
 
-Quick Tutorial
+Quick Installation
 --------------
+    
     sudo apt-get install libicu-dev
     pip install polyglot
 
@@ -47,6 +48,7 @@ Quick Tutorial
 .. code:: python
 
     import polyglot
+    
     from polyglot.text import Text, Word
 
 Language Detection
